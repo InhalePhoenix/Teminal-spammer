@@ -1,3 +1,3 @@
 #!/usr/bin/python
 while(True):
-  print("Spam")
+  print("Get spammed faggot")
